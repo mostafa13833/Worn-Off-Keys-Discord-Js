@@ -55,4 +55,5 @@ client.on('ready', async () => {
   modLogs(client)
 })
 
-client.login(config.token)
+client.login(config.token).
+
